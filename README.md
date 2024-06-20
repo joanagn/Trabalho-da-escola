@@ -1,2 +1,2 @@
-# Trabalho-da-escola
-Trabalho do Colégio Barro Preto, segundo ano
+# banner
+Código de html para aula de Pensamento Computacional.
